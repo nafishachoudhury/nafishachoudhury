@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @nafishachoudhury
+- 👀 I’m interested in learning software development
+- 🌱 I’m currently learning C Programming at Metropolitan University
+- 💞️ I’m looking to collaborate on beginner open-source projects and contribute in any parts possible.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I don't know anything about programming but still want to work with Elon Musk in the future, So I figured the only way possible is to know Computer Engineering.
